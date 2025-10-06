@@ -19,7 +19,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santiago-noe&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santiago-noe&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santiago-noe&theme=github-dark)
 
 ---
 
@@ -113,7 +113,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santiago-noe&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santiago-noe&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santiago-noe&theme=github-dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/santiago-noe?theme=dark&hide_border=true)
 
 <!--
 **oscarmy333** is a _special_ repository because its `README.md` (this file) appears on your GitHub profile.
