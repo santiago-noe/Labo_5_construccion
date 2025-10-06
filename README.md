@@ -19,7 +19,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santiago-noe&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=santiago-noe&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santiago-noe&theme=dark)
 
 ---
 
@@ -107,14 +107,13 @@
 # Contador de Vistas
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=santiago-noe&label=Profile%20views&color=0e75b6&style=flat" alt="santiago-noe" /> </p>
 
-# Lenguajes
+# Estadísticas de GitHub
+
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-noe&layout=compact&theme=dark)
 
-# Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santiago-noe&show_icons=true&theme=dark)
 
-# Streak stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=santiago-noe&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santiago-noe&theme=dark)
 
 <!--
 **oscarmy333** is a _special_ repository because its `README.md` (this file) appears on your GitHub profile.
