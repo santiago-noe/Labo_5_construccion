@@ -15,20 +15,20 @@
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmy333&layout=compact&theme=dark)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-noe&layout=compact&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscarmy333&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santiago-noe&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=oscarmy333&theme=elegant)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=santiago-noe&theme=dark)](https://git.io/streak-stats)
 
 ---
 
 ## 💼 Información Personal
 
-- 📍 Estoy en GitHub [@oscarmy333](https://github.com/oscarmy333)
+- 📍 Estoy en GitHub [@santiago-noe](https://github.com/santiago-noe)
 - 🌱 Actualmente aprendiendo **Desarrollo Full-Stack, Móvil y Bases de Datos**
 - 💬 Pregúntame acerca de **Java, Python, JavaScript, React**
-- 📫 Mis experiencias en [LinkedIn](https://www.linkedin.com/in/oscar-meneses-yaranga-80892022/)
+- 📫 Mis experiencias en [LinkedIn](https://www.linkedin.com/in/santiago-noe/)
 
 ---
 
@@ -75,12 +75,12 @@
 
 | **Name** | **Description** | **GitHub Stars** |
 |----------|-----------------|------------------|
-| [RetroFit-ejemplo](https://github.com/oscarmy333/retrofitExample) | Servicios de retrofit para interacciones con API rests | ![Stars](https://img.shields.io/github/stars/oscarmy333/retrofitExample) |
+| [Labo_5_construccion](https://github.com/santiago-noe/Labo_5_construccion) | Proyecto de construcción y evolución de software | ![Stars](https://img.shields.io/github/stars/santiago-noe/Labo_5_construccion) |
 
 ---
 <h3 align="left">Contactos:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/oscar-meneses-yaranga-80892022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Noe Yupanqui Santiago" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/santiago-noe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Noe Yupanqui Santiago" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Mis Tecnologías:</h3>
@@ -105,16 +105,16 @@
 </p>
 
 # Contador de Vistas
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=oscarmy333&label=Profile%20views&color=0e75b6&style=flat" alt="oscarmy333" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=santiago-noe&label=Profile%20views&color=0e75b6&style=flat" alt="santiago-noe" /> </p>
 
 # Lenguajes
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmy333&layout=compact&theme=dark)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-noe&layout=compact&theme=dark)
 
 # Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscarmy333&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santiago-noe&show_icons=true&theme=dark)
 
 # Streak stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=oscarmy333&theme=elegant)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=santiago-noe&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **oscarmy333** is a _special_ repository because its `README.md` (this file) appears on your GitHub profile.
